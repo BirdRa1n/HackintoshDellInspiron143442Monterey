@@ -1,6 +1,12 @@
 
 # Hackintosh Monterey Dell Inspiron 14 3442
 
+## Author
+
+- [@BirdRain](https://www.github.com/BirdRa1n)
+- [@DarioJr](https://t.me/dariojr)
+
+
 ## Improvements
 
 Excessive CPU usage has been successfully fixed, although when you insert your Apple iD it takes a while to lower the CPU usage due to the Bird process
