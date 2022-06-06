@@ -1,7 +1,7 @@
 
 # Monterey Dell Inspiron 14 3442
 
-[EFI DOWNLOAD]()
+[EFI DOWNLOAD](https://suaurl.com/06813d)
 
 ## FAQ
 
